@@ -1,0 +1,118 @@
+header {
+    text-align: right;
+}
+
+nav {
+    text-align: left;
+}
+
+h1 {
+    color: rgba(6, 2, 50, 0.824);
+    background-color: greenyellow;
+}
+
+h2 {
+    color: rgb(2, 2, 43);
+    background-color: greenyellow;
+}
+
+h3 {
+    color: oldlace
+}
+
+/*selector de etiqueta*/
+p {
+    color: black;
+}
+
+body {
+    background-color: oldlace;
+    margin: 8%;
+}
+
+/* selector de id*/
+#principal {
+    color: green
+}
+
+/*selector de clase*/
+.azul {
+    color: blue
+}
+
+ul {
+    color: chartreuse;
+    list-style: square;
+    font-family: ;
+}
+
+ol {
+    color: chartreuse;
+}
+
+#formacion {
+    background-color: chartreuse;
+}
+
+#certificados {
+    background-color: chartreuse;
+}
+
+section {
+    background-color: blueviolet;
+}
+
+article {
+    background-color: chocolate;
+}
+
+.orbitron {
+    font-family: "Orbitron", sans-serif;
+    color: orangered;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.medieval {
+    font-family: "MedievalSharp", cursive;
+    font-weight: 400;
+}
+
+.embed {
+    font-family: "Jersey 20", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+
+.carta {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-size: 30   px;
+}
+
+#canva {
+    text-align: center;
+}
+table {
+background-color:bisque;
+text-align: center;
+}
+thead {
+    background-color: coral;
+    color:darkgreen;
+}
+
+div {
+    text-align:left;
+
+}
+.input{
+    background-color: aqua;
+    color:darkorchid;
+    
+}
+#a4 {
+    text-align: right;
+}
